@@ -5,3 +5,4 @@ plotly
 scikit-learn
 streamlit
 geopandas
+ipykernel # Needed only for notebook
